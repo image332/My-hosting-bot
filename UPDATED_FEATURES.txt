@@ -1,0 +1,19 @@
+Rbrbbtbtb bot update
+
+Implemented while preserving the existing Render webhook, force-join, admin broadcast/channel tools,
+file hosting, automatic dependency installation, logs and downloads:
+
+- Project-first upload flow with green + project button.
+- Multiple files per active project and Done / File Manager action.
+- Single Run/Stop toggle button for hosted runnable files.
+- GitHub repository clone-and-run flow.
+- Free/Premium plans with per-user plan assignment.
+- Admin-controlled limits and feature visibility.
+- Admin-only Access Control screen.
+- Telegram native reply-to behavior for replied messages.
+- Plan-controlled upload cancellation.
+- Plan-controlled auto-delete for reply messages.
+- Real-time upload progress, speed and elapsed seconds.
+- Git is included in Render/Nixpacks setup for GitHub cloning.
+
+The existing bot.py.bak file is retained unchanged.
